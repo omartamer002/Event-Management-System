@@ -1,0 +1,6 @@
+api.db
+EventManagementSystem
+*.exe
+*.test
+*.prof
+.DS_Store
